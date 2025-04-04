@@ -12,36 +12,6 @@ Disponibilizar um **repositório educacional aberto** com projetos aplicados à 
 
 ---
 
-## 🚀 Primeiro Projeto: Pensamento Computacional com Smartphones Android
-
-### 💡 Visão Geral
-
-O projeto inicial tem como foco introduzir os alunos ao **Pensamento Computacional**, utilizando seus próprios **smartphones Android** como ferramenta principal. Essa abordagem permite:
-
-- **Acessibilidade**: sem necessidade de computadores caros
-- **Aprendizado prático**: com apps como Visual Studio Code (via Termux), Pocket Code, Pydroid, entre outros
-- **Desenvolvimento de lógica e abstração** de forma visual e interativa
-
-### 📚 Tópicos Abordados
-
-- O que é Pensamento Computacional?  
-  (Decomposição, reconhecimento de padrões, abstração e algoritmos)
-- Introdução à lógica de programação
-- Algoritmos simples usando fluxogramas e pseudocódigo
-- Programação com blocos (Scratch/Pocket Code)
-- Programação textual básica com Python em ambiente Android
-
----
-
-## 📱 Ferramentas Recomendadas
-
-- **Pydroid 3** – Python no Android
-- **Pocket Code** – Programação por blocos (estilo Scratch)
-- **Termux + Vim ou VSC** – Terminal Linux e ambiente de desenvolvimento local
-- **Replit (via navegador)** – Plataforma online de codificação
-
----
-
 ## 🧑‍💻 Como Contribuir
 
 1. Faça um **fork** deste repositório
